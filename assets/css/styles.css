@@ -1,0 +1,11 @@
+.jumbo_intro {
+  text-align: center;
+  background-color: rgba(255,255,255,0.4);
+}
+
+.jumbotron {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../../assets/img/pizza.jpg);
+}
+
