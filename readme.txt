@@ -19,13 +19,13 @@ Il s'agit de la création d'une page d'une restaurant fictif à l'aide de Bootst
 
 ### Photos :
 	Page 1 :
-	*	pizza1 : https://unsplash.com/photos/SU1LFoeEUkk
-	* pizza2 : https://unsplash.com/photos/eSeo6IzOV00
-	*	pizza3 : https://unsplash.com/photos/22Vt7JIf7ZI
-	* pizza4 : https://unsplash.com/photos/tOYiQxF9-Ys
-	* pizza5 : https://unsplash.com/photos/QbOvrpDU1KA
-	* pizza6 : https://unsplash.com/photos/z11dSXXlt8c
-	* pizza7 : https://unsplash.com/photos/jkC1ul95ujQ
-	* pizza8 : https://unsplash.com/photos/HPZs4EXRFSU
-	* pizza9 : https://unsplash.com/photos/9xWl_zhIcS4
-	* pizza10 : https://unsplash.com/photos/MBnj72Uc-iQ
+*	pizza1 : https://unsplash.com/photos/SU1LFoeEUkk
+* pizza2 : https://unsplash.com/photos/eSeo6IzOV00
+*	pizza3 : https://unsplash.com/photos/22Vt7JIf7ZI
+* pizza4 : https://unsplash.com/photos/tOYiQxF9-Ys
+* pizza5 : https://unsplash.com/photos/QbOvrpDU1KA
+* pizza6 : https://unsplash.com/photos/z11dSXXlt8c
+* pizza7 : https://unsplash.com/photos/jkC1ul95ujQ
+* pizza8 : https://unsplash.com/photos/HPZs4EXRFSU
+* pizza9 : https://unsplash.com/photos/9xWl_zhIcS4
+* pizza10 : https://unsplash.com/photos/MBnj72Uc-iQ
