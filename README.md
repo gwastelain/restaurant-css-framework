@@ -18,7 +18,7 @@ Promotion :
 * Réduc étudiant : https://unsplash.com/photos/g1Kr4Ozfoac
 
 ### Photos :
-Page 1 :
+
 * pizza1 : https://unsplash.com/photos/SU1LFoeEUkk
 * pizza2 : https://unsplash.com/photos/eSeo6IzOV00
 * pizza3 : https://unsplash.com/photos/22Vt7JIf7ZI
