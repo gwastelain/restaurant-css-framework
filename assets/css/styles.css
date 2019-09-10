@@ -9,3 +9,11 @@
   background-image: url(../../assets/img/pizza.jpg);
 }
 
+.menu li {
+  padding-bottom: 10px;
+}
+
+.badge.badge-secondary {
+  float: right;
+}
+
