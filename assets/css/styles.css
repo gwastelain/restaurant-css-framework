@@ -94,6 +94,7 @@
   padding: 40px 0;
   background-color: #ffffff;
   color: #4b4c4d;
+  font-family: 'Open Sans';
 }
 
 .footer-basic ul {
@@ -191,13 +192,14 @@
 /*Content*/
 .marque {
   font-size: 10rem;
+  font-family: 'Lobster', cursive;
   color: black;
 }
 
 .slogan {
   font-size: 3rem;
   color: white;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(0, 0, 0, 0.1);
   display: inline-block;
   padding: 10px;
 }
@@ -241,8 +243,17 @@
   font-family: 'Lobster', cursive;
 }
 
+.navbar-nav {
+  font-family: 'Open Sans';
+}
+
+h1 {
+  font-family: 'Open Sans';
+}
+
 h2 {
   font-weight: normal;
+  font-family: 'Open Sans';
 }
 
 .h1-pages {
@@ -252,6 +263,11 @@ h2 {
 
 h3 {
   background-color: rgba(0, 0, 0, 0.03);
+  font-family: 'Open Sans';
+}
+
+h4 {
+  font-family: 'Open Sans';
 }
 
 .py-bxl {
