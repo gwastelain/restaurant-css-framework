@@ -6,7 +6,11 @@ Il s'agit de la création d'une page d'une restaurant fictif à l'aide de Bootst
 ## Lien des [consignes](https://github.com/becodeorg/BXL-Johnson-4.14/blob/master/03-HTML-CSS/bootstrap/restaurant.adoc)
 ## Lien du [site](https://gwastelain.github.io/restaurant-css-framework/)
 
-## Source images libre de droits :
+## Lien du [repo](https://github.com/gwastelain/restaurant-css-framework)
+
+## Source images et fonts libres de droits :
+
+## Titres : https://www.1001fonts.com/teamspirit-font.html
 
 ### Jumbotron : https://unsplash.com/photos/MQUqbmszGGM
 
@@ -29,4 +33,3 @@ Promotion :
 * pizza8 : https://unsplash.com/photos/HPZs4EXRFSU
 * pizza9 : https://unsplash.com/photos/9xWl_zhIcS4
 * pizza10 : https://unsplash.com/photos/MBnj72Uc-iQ
-

@@ -85,7 +85,7 @@
 }
 
 .contact-clean form .btn-primary {
-  background-color: #055ada !important;
+  background-color: #05B019 !important;
   margin-top: 15px;
   color: #fff;
 }
@@ -123,7 +123,7 @@
 
 .footer-basic .social {
   text-align: center;
-  margin-top: 25px; 
+  margin-top: 25px;
   padding-bottom: 25px;
 }
 
@@ -192,39 +192,47 @@
 }
 
 //*Content*//
-
-.jumbo_intro {
-  text-align: center;
-  background-color: rgba(255,255,255,0.4);
+@font-face {
+font-family: "TeamSpiritNF";
+src: url("../fonts/TeamSpiritNF.ttf") format("truetype"),
+     url("../fonts/TeamSpiritNF.otf") format("opentype");
 }
 
-.jumbo_intro {
+.marque {
   text-align: center;
-  background-color: rgba(255,255,255,0.4);
+  color: black;
+
 }
 
-.jumbotron-index {
+.slogan {
+  text-align: center;
+  color: black;
+
+}
+
+.jumbotron-accueil {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../assets/img/pizza.jpg);
+  background-image: url(../img/pizza.jpg);
+
 }
 
 .jumbotron-menu {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../assets/img/pizza.jpg);
+  background-image: url(../img/pizza.jpg);
 }
 
 .jumbotron-restaurant {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../assets/img/pizza.jpg);
+  background-image: url(../img/pizza.jpg);
 }
 
 .jumbotron-photos {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../assets/img/pizza.jpg);
+  background-image: url(../img/pizza.jpg);
 }
 
 .menu li {
@@ -235,6 +243,21 @@
   float: right;
 }
 
+h1 {
+  font-family: "TeamSpiritNF";
+  font-weight: bold;
+}
+
+.navbar-brand {
+  font-family: "TeamSpiritNF";
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "TeamSpiritNF";
+  font-weight: normal;
+}
+
 .h1-pages {
   background-color: rgba(0,0,0,0.03);
   text-align: center;
@@ -242,6 +265,7 @@
 
 h3 {
   background-color: rgba(0,0,0,0.03);
+  font-family: "TeamSpiritNF";
 }
 
 .py-bxl {
