@@ -19,8 +19,13 @@ Promotion :
 * Pizza + boisson : https://unsplash.com/photos/IUo-GtVEjSI
 * Réduc étudiant : https://unsplash.com/photos/g1Kr4Ozfoac
 
+### Menu : 
+
+https://www.vecteezy.com/vector-art/141791-pizza-pattern-vector
+
 ### Photos :
 
+* Bande : https://www.vecteezy.com/vector-art/359672-italian-pepperoni-pizza-on-table
 * pizza1 : https://unsplash.com/photos/SU1LFoeEUkk
 * pizza2 : https://unsplash.com/photos/eSeo6IzOV00
 * pizza3 : https://unsplash.com/photos/22Vt7JIf7ZI
@@ -31,3 +36,10 @@ Promotion :
 * pizza8 : https://unsplash.com/photos/HPZs4EXRFSU
 * pizza9 : https://unsplash.com/photos/9xWl_zhIcS4
 * pizza10 : https://unsplash.com/photos/MBnj72Uc-iQ
+
+### Restaurant :
+
+https://www.freepik.com/free-vector/spices-kitchen-pattern_1380864.htm#page=1&query=pattern%20restaurant&position=41
+
+### Contact : 
+https://www.freepik.com/free-vector/seamless-pizza-ingredients_1389751.htm#page=1&query=pattern%20restaurant&position=14

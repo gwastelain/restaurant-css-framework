@@ -216,19 +216,25 @@
 .jumbotron-menu {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../img/pizza.jpg);
+  background-image: url(../img/Pizza-Pattern-Vector.jpg);
 }
 
 .jumbotron-restaurant {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../img/pizza.jpg);
+  background-image: url(../img/restaurant-pattern.jpg);
 }
 
 .jumbotron-photos {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../img/pizza.jpg);
+  background-image: url(../img/photos-pattern.jpg);
+}
+
+.jumbotron-contact {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../img/contact-pattern.jpg);
 }
 
 .menu li {
