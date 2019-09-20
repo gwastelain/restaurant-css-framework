@@ -1,5 +1,4 @@
-//*Contact Form*//
-
+/*Contact Form*/
 .contact-clean {
   background: #f1f7fc;
   padding: 80px 0;
@@ -19,7 +18,7 @@
   padding: 40px;
   border-radius: 4px;
   color: #505e6c;
-  box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width:767px) {
@@ -43,7 +42,7 @@
 .contact-clean form .form-control {
   background: #fff;
   border-radius: 2px;
-  box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
   outline: none;
   color: inherit;
   padding-left: 12px;
@@ -90,8 +89,7 @@
   color: #fff;
 }
 
-//*Footer*//
-
+/*Footer*/
 .footer-basic {
   padding: 40px 0;
   background-color: #ffffff;
@@ -127,7 +125,7 @@
   padding-bottom: 25px;
 }
 
-.footer-basic .social > a {
+.footer-basic .social>a {
   font-size: 24px;
   width: 40px;
   height: 40px;
@@ -141,7 +139,7 @@
   opacity: 0.75;
 }
 
-.footer-basic .social > a:hover {
+.footer-basic .social>a:hover {
   opacity: 0.9;
 }
 
@@ -153,8 +151,7 @@
   margin-bottom: 0;
 }
 
-//*Gallery*//
-
+/*Gallery*/
 .photo-gallery {
   color: #313437;
   background-color: #fff;
@@ -191,30 +188,27 @@
   padding-bottom: 30px;
 }
 
-//*Content*//
-@font-face {
-font-family: "TeamSpiritNF";
-src: url("../fonts/TeamSpiritNF.ttf") format("truetype"),
-     url("../fonts/TeamSpiritNF.otf") format("opentype");
-}
-
+/*Content*/
 .marque {
-  text-align: center;
+  font-size: 10rem;
   color: black;
-
 }
 
 .slogan {
-  text-align: center;
-  color: black;
-
+  font-size: 3rem;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  padding: 10px;
 }
 
 .jumbotron-accueil {
   background-repeat: no-repeat;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: white;
   background-size: cover;
   background-image: url(../img/pizza.jpg);
-
 }
 
 .jumbotron-menu {
@@ -243,29 +237,21 @@ src: url("../fonts/TeamSpiritNF.ttf") format("truetype"),
   float: right;
 }
 
-h1 {
-  font-family: "TeamSpiritNF";
-  font-weight: bold;
-}
-
 .navbar-brand {
-  font-family: "TeamSpiritNF";
-  font-weight: bold;
+  font-family: 'Lobster', cursive;
 }
 
 h2 {
-  font-family: "TeamSpiritNF";
   font-weight: normal;
 }
 
 .h1-pages {
-  background-color: rgba(0,0,0,0.03);
+  background-color: rgba(0, 0, 0, 0.03);
   text-align: center;
 }
 
 h3 {
-  background-color: rgba(0,0,0,0.03);
-  font-family: "TeamSpiritNF";
+  background-color: rgba(0, 0, 0, 0.03);
 }
 
 .py-bxl {

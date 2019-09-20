@@ -8,9 +8,7 @@ Il s'agit de la création d'une page d'une restaurant fictif à l'aide de Bootst
 
 ## Lien du [repo](https://github.com/gwastelain/restaurant-css-framework)
 
-## Source images et fonts libres de droits :
-
-## Titres : https://www.1001fonts.com/teamspirit-font.html
+## Source images libres de droits :
 
 ### Jumbotron : https://unsplash.com/photos/MQUqbmszGGM
 
